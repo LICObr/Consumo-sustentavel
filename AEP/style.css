@@ -1,0 +1,13 @@
+
+body {
+  background-color: #121212;
+  color: #f5f5f5;
+}
+
+h2 {
+  color: #90ee90;
+}
+
+.form-control, .btn {
+  border-radius: 0.5rem;
+}
